@@ -17,7 +17,7 @@
 ### Easiest Way To Deploy On Heroku 
 
 <p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=UmV4YXNoaC9IaWthcmlSb2JvdCBtYWlu"> <img src="https://img.shields.io/badge/Deploy%20To%20Herokubot-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Rexashh/chatgpt-bot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-indigo?style=for-the-badge&logo=heroku" width="200" height="35.60" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Rexashh/chatgpt-bot/tree/main"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-indigo?style=for-the-badge&logo=heroku" width="200" height="35.60" /></a></p>
 ```
 
 ### Deploy to Branch [Heroku]
@@ -25,7 +25,7 @@
 1. <b>Go to github, your fork</b>
 2. <b>Delete your fork. If you didn't fork, go to step</b>
 3. <b>Fork repo.</b>
-4. <b>edit</b> 👉 [config.py](https://github.com/TeamKillerX/chatgpt-bot/blob/main/config.py)
+4. <b>edit</b> 👉 [config.py](https://github.com/TeamKillerX/chatgpt-bot)
 5. <b>Go to heroku</b>
 6. <b>Desktop view</b>
 7. <b>Go to deploy tab</b>
