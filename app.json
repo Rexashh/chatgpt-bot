@@ -15,22 +15,22 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "9143931",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "5dcaf3b395762de3172651527214da4d",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "6054586380:AAGh0oYvdxUU1cI13JHcj_UG4RIZq4AOJZs",
         "required": true
       },
       "OPENAI_API": {
         "description": "get api key : openai.com",
-        "value": "",
+        "value": "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",
         "required": true
       },
     },
