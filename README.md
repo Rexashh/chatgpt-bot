@@ -14,6 +14,11 @@
    If one of the members misuses this repository, we are forced to ban you
    Never ever abuse this repository
 ```
+### Easiest Way To Deploy On Heroku 
+
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=UmV4YXNoaC9IaWthcmlSb2JvdCBtYWlu"> <img src="https://img.shields.io/badge/Deploy%20To%20Herokubot-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Rexashh/chatgpt-bot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-indigo?style=for-the-badge&logo=heroku" width="200" height="35.60" /></a></p>
+```
 
 ### Deploy to Branch [Heroku]
 
